@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04faf02e-e459-4c58-81d7-26c88c4efc2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toolchains.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class X.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class X.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q74.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q74.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q75.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q76.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q77.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q77.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q78.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q80.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q81.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q81.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q85.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class X/String_Assignment/Q85.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2018_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2018_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2019.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2022_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Previous_Year/ICSE_2022_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q12_i.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q12_i.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q12_ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q12_ii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q12_iii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q12_iii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q12_iv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q12_iv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q68.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q76.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q77.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q78.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q81.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q84.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q85.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q87.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q89.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Assignment/Q90.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Assignment/Q90.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trash/SumOfSeriesQ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trash/SumOfSeriesQ22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trash/SumOfSeriesQ23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trash/SumOfSeriesQ23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trash/SumOfSeriesQ24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trash/SumOfSeriesQ24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trash/TT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trash/TT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trash/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trash/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserDefinedFunctions/CabService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserDefinedFunctions/CabService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserDefinedFunctions/ExampleQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserDefinedFunctions/ExampleQ1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2grVVuNnn3KoMfu9YKrkNtunwUA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/aaravbansal/Developer/Java Projects/Class X"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04faf02e-e459-4c58-81d7-26c88c4efc2e" name="Changes" comment="" />
+      <created>1716455711083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716455711083</updated>
+    </task>
+    <servers />
+  </component>
+</project>

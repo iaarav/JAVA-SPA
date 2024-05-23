@@ -7,5 +7,9 @@ public class Q85 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a String: ");
         String s = sc.nextLine();
+
+        s=s.toLowerCase();
+
+        
     }
 }
